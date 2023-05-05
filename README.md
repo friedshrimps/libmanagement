@@ -108,7 +108,11 @@ Ici l'administrateur peut effectuer la recherche et le CRUD.
     Une fois le bouton 'Modifier' clické, les données sont obtenues et la base de données est mise à jour.
     
     ![image](https://user-images.githubusercontent.com/121770088/236572835-398260d6-1456-438b-9cf4-77a1adf50d5b.png)
+
+    -> Après Modification:
     
+    ![image](https://user-images.githubusercontent.com/121770088/236584705-d44b0b14-fc3e-4d67-b895-d72a92a62d80.png)
+
 
 ##### Fonction Recherche:
 
